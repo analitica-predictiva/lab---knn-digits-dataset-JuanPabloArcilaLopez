@@ -69,7 +69,7 @@ def pregunta_03():
     """
 
     # Importe KNeighborsClassifier de sklearn.neighbors
-    from sklearn.neighbors import KNeighborsClassifier
+    from  import KNeighborsClassifier
 
     # Importe train_test_split de sklearn.model_selection
     from ____ import ____
